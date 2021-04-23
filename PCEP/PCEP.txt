@@ -1,1 +1,18 @@
-Here my notes for the PCEP (Certified Entry Leve-Level Python Programmer) exam.
+EXAM OBJECTIVES:
+
+The test candidate should demonstrate the sufficient knowledge of the following concepts:
+
+1. The fundamentals of computer programming, i.e. how the computer works, how the program is executed, how the programming language is defined and constructed, what the difference is between compilation and interpretation, what Python is, how it is positioned among other programming languages, and what distinguishes the different versions of Python;
+
+2. The basic methods of formatting and outputting data offered by Python, together with the primary kinds of data and numerical operators, their mutual relations and bindings; the concept of variables and variable naming conventions; the assignment operator, the rules governing the building of expressions; the inputting and converting of data;Here my notes for the PCEP (Certified Entry Leve-Level Python Programmer) exam.
+
+OVERVIEW:
+
+PCEP – Certified Entry-Level Python Programmer certification is a professional credential that measures your ability to accomplish coding tasks related to the essentials of programming in the Python language. A test candidate should demonstrate sufficient knowledge of the universal concepts of computer programming, the syntax and semantics of the Python language as well as the skills in resolving typical implementation challenges with the help of the Python Standard Library.
+
+PCEP – Certified Entry-Level Python Programmer certification shows that the individual is familiar with universal computer programming concepts like data types, containers, functions, conditions, loops, as well as Python programming language syntax, semantics, and the runtime environment.
+
+Becoming PCEP certified ensures that the individual is acquainted with the most essential means provided by Python 3 to enable her/him to start their own studies at an intermediate level and to continue their professional development.
+
+PCEP – Certified Entry-Level Python Programmer certification is an interim step to the PCAP – Certified Associate in Python Programming certification and the starting point to launch a career in software development, Python programming, and related technologies. Becoming PCEP certified will help you stand out from other candidates and get your foot in the door.
+
