@@ -1,0 +1,1 @@
+Here my notes for the PCEP (Certified Entry Leve-Level Python Programmer) exam.
